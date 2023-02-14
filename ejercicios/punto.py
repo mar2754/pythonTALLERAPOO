@@ -10,3 +10,7 @@ print(coordenada._X)
 print("ubicacion en Y:  ")
 print(coordenada._Y)
 
+     def cambiar_coordenada(self,coorx,coory):
+         self.coorx = self.coorx
+         self.coory = self.coory
+
