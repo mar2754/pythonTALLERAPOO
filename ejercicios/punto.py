@@ -9,3 +9,4 @@ print(coordenada._X)
 
 print("ubicacion en Y:  ")
 print(coordenada._Y)
+
